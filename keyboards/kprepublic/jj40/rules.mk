@@ -1,1 +1,2 @@
 DEFAULT_FOLDER = kprepublic/jj40/rev1
+UNICODEMAP_ENABLE = yes
